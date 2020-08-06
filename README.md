@@ -9,7 +9,8 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 ### Connect with me:
 
 [<img align="left" alt="elmzarnsi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="elmzarnsi | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="elmzarnsi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="elmzarnsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -34,5 +35,6 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://elmer.dev
+[codepen]: https://codepen.io/elmzarnsi/
 [twitter]: https://twitter.com/elmzarnsi
 [linkedin]: https://linkedin.com/in/elmzarnsi
