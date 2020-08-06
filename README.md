@@ -33,9 +33,6 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 * WordPress
 * Joomla
 
-<br />
-<br />
-
 ---
 
 ### 📕 Latest Blog Posts
