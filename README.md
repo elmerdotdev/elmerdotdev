@@ -41,7 +41,7 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 
 ---
 
-<img align="left" alt="elmzarnsi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elmzarnsi&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmzarnsi&layout=compact)]
 
 [website]: https://elmer.dev
 [codepen]: https://codepen.io/elmzarnsi/
