@@ -39,6 +39,10 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 - [Different Transition Timing Functions in CSS3](https://elmer.dev/blog/different-transition-timing-functions-in-css3/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="elmzarnsi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elmzarnsi&show_icons=true&hide_border=true" />
+
 [website]: https://elmer.dev
 [codepen]: https://codepen.io/elmzarnsi/
 [twitter]: https://twitter.com/elmzarnsi
