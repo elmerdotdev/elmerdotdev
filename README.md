@@ -1,6 +1,7 @@
 ### Hi there, you can just call me JR 👋
 
 🌱 I’m currently learning Dart & Flutter
+<br />
 ⚡ Fun fact: I really love city-builder games
 
 ### Connect with me:
