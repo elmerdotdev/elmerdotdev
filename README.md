@@ -4,7 +4,7 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 
 :computer: I’m currently learning Dart Programming & Flutter
 <br />
-:video_game: Fun fact: I love playing city-builder games
+:video_game: Fun fact: I enjoy city-builder games
 
 ### Connect with me:
 
