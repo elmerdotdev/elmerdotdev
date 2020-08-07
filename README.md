@@ -2,7 +2,7 @@
 
 I'm a full-stack developer who enjoys exploring the different nooks and crannies of programming.
 
-:computer: I’m currently learning Dart & Flutter
+:computer: I’m currently learning Dart Programming & Flutter
 <br />
 :video_game: Fun fact: I really love city-builder games
 
