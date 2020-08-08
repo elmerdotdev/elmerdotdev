@@ -33,7 +33,9 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Issuing a FREE SSL Certificate for your domain using Let’s Encrypt SSL](https://elmer.dev/blog/issue-free-ssl-certificate-using-lets-encrypt-ssl/)
 - [Creating a Flip Clock Countdown Timer with Moment.js Timezone](https://elmer.dev/blog/flip-clock-countdown-timer-with-moment-js-timezone/)
 - [Direction Aware Tiles Pure CSS – How It Works](https://elmer.dev/blog/direction-aware-tiles-pure-css-how-it-works/)
@@ -43,7 +45,7 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmzarnsi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmerdotdev&layout=compact)
 
 [website]: https://elmer.dev
 [codepen]: https://codepen.io/elmzarnsi/
