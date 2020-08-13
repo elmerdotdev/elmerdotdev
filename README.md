@@ -1,6 +1,6 @@
 ### Hi there, you can just call me JR 👋
 
-I'm a full-stack developer who enjoys exploring the different nooks and crannies of programming.
+I'm a full-stack developer who enjoys exploring the different nooks and crannies of programming. When I can, I spend my time learning new courses in Udemy.
 
 :computer: I’m currently learning Dart Programming & Flutter
 <br />
@@ -24,8 +24,8 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 <img align="left" alt="mySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mysql/mysql.png" />
 <img align="left" alt="Composer" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/composer/composer.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
-<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
 
 <br />
 <br />
@@ -35,6 +35,7 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Issuing a FREE SSL Certificate for your domain using Let’s Encrypt SSL](https://elmer.dev/blog/issue-free-ssl-certificate-using-lets-encrypt-ssl/)
 - [Creating a Flip Clock Countdown Timer with Moment.js Timezone](https://elmer.dev/blog/flip-clock-countdown-timer-with-moment-js-timezone/)
 - [Direction Aware Tiles Pure CSS – How It Works](https://elmer.dev/blog/direction-aware-tiles-pure-css-how-it-works/)
