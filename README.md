@@ -37,11 +37,11 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Issuing a FREE SSL Certificate for your domain using Let’s Encrypt SSL](https://elmer.dev/blog/issue-free-ssl-certificate-using-lets-encrypt-ssl/)
-- [Creating a Flip Clock Countdown Timer with Moment.js Timezone](https://elmer.dev/blog/flip-clock-countdown-timer-with-moment-js-timezone/)
-- [Direction Aware Tiles Pure CSS – How It Works](https://elmer.dev/blog/direction-aware-tiles-pure-css-how-it-works/)
-- [Material Design Card Flip Pure CSS – Direction Aware](https://elmer.dev/blog/material-design-card-flip-pure-css-direction-aware/)
-- [Different Transition Timing Functions in CSS3](https://elmer.dev/blog/different-transition-timing-functions-in-css3/)
+- [Issuing a FREE SSL Certificate for your domain using Let’s Encrypt SSL](https://elmerdotdev.com/tutorials/issue-free-ssl-certificate-using-lets-encrypt-ssl/)
+- [Creating a Flip Clock Countdown Timer with Moment.js Timezone](https://elmerdotdev.com/development/flip-clock-countdown-timer-with-moment-js-timezone/)
+- [Direction Aware Tiles Pure CSS – How It Works](https://elmerdotdev.com/development/direction-aware-tiles-pure-css-how-it-works/)
+- [Material Design Card Flip Pure CSS – Direction Aware](https://elmerdotdev.com/development/material-design-card-flip-pure-css-direction-aware/)
+- [Different Transition Timing Functions in CSS3](https://elmerdotdev.com/development/different-transition-timing-functions-in-css3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
