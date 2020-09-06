@@ -39,9 +39,9 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 <!-- BLOG-POST-LIST:START -->
 - [Issuing a FREE SSL Certificate for your domain using Let’s Encrypt SSL](https://elmerdotdev.com/issue-free-ssl-certificate-using-lets-encrypt-ssl/)
 - [Creating a Flip Clock Countdown Timer with Moment.js Timezone](https://elmerdotdev.com/flip-clock-countdown-timer-with-moment-js-timezone/)
+- [How Propeller Ads Push Notifications Got Me Blacklisted](https://elmerdotdev.com/how-propeller-ads-push-notifications-got-me-blacklisted/)
 - [Direction Aware Tiles Pure CSS – How It Works](https://elmerdotdev.com/direction-aware-tiles-pure-css-how-it-works/)
 - [Material Design Card Flip Pure CSS – Direction Aware](https://elmerdotdev.com/material-design-card-flip-pure-css-direction-aware/)
-- [Different Transition Timing Functions in CSS3](https://elmerdotdev.com/different-transition-timing-functions-in-css3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
