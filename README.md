@@ -41,7 +41,7 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 - [Creating a Flip Clock Countdown Timer with Moment.js Timezone](https://elmerdotdev.com/flip-clock-countdown-timer-with-moment-js-timezone/)
 - [How Propeller Ads Push Notifications Got Me Blacklisted](https://elmerdotdev.com/how-propeller-ads-push-notifications-got-me-blacklisted/)
 - [Direction Aware Tiles Pure CSS – How It Works](https://elmerdotdev.com/direction-aware-tiles-pure-css-how-it-works/)
-- [Material Design Card Flip Pure CSS – Direction Aware](https://elmerdotdev.com/material-design-card-flip-pure-css-direction-aware/)
+- [Add HTTPS to your WordPress Site with Cloudflare’s Free SSL](https://elmerdotdev.com/add-https-to-your-wordpress-site-with-cloudflares-free-ssl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
