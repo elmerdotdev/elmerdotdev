@@ -37,11 +37,11 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Issuing a FREE SSL Certificate for your domain using Let’s Encrypt SSL](https://elmerdotdev.com/issue-free-ssl-certificate-using-lets-encrypt-ssl/)
+- [Adding a New Domain to Your Hosting Account via cPanel](https://elmerdotdev.com/adding-a-new-domain-to-your-hosting-account-via-cpanel/)
+- [Issuing a FREE SSL Certificate for Your Domain Using Let’s Encrypt SSL](https://elmerdotdev.com/issue-free-ssl-certificate-using-lets-encrypt-ssl/)
 - [Creating a Flip Clock Countdown Timer with Moment.js Timezone](https://elmerdotdev.com/flip-clock-countdown-timer-with-moment-js-timezone/)
 - [How Propeller Ads Push Notifications Got Me Blacklisted](https://elmerdotdev.com/how-propeller-ads-push-notifications-got-me-blacklisted/)
 - [Direction Aware Tiles Pure CSS – How It Works](https://elmerdotdev.com/direction-aware-tiles-pure-css-how-it-works/)
-- [How to Tell the Browser Not to Cache your WordPress CSS and JS Files](https://elmerdotdev.com/how-to-tell-the-browser-not-to-cache-your-wordpress-css-and-js-files/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
