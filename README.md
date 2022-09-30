@@ -2,7 +2,7 @@
 
 I'm a full-stack developer who enjoys exploring the different nooks and crannies of programming. When I can, I spend my time learning new courses in Udemy.
 
-:computer: I’m currently learning JavaScript
+:computer: I’m currently learning new JavaScript frameworks and libraries
 <br />
 :video_game: Fun fact: I enjoy collecting vinyl figures
 
