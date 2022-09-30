@@ -4,7 +4,7 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 
 :computer: I’m currently learning new JavaScript frameworks and libraries
 <br />
-:video_game: Fun fact: I enjoy collecting vinyl figures
+:video_game: I like to play Switch games and collect vinyl figures
 
 ### Connect with me:
 
