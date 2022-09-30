@@ -2,9 +2,9 @@
 
 I'm a full-stack developer who enjoys exploring the different nooks and crannies of programming. When I can, I spend my time learning new courses in Udemy.
 
-:computer: I’m currently learning Python
+:computer: I’m currently learning JavaScript
 <br />
-:video_game: Fun fact: I enjoy city-builder games
+:video_game: Fun fact: I enjoy collecting vinyl figures
 
 ### Connect with me:
 
