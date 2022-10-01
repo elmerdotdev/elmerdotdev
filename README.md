@@ -32,9 +32,7 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 <br />
 <br />
 
----
-
-<! -- ### 📕 Latest Blog Posts -->
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START
 - [Adding a New Domain to Your Hosting Account via cPanel](https://elmerdotdev.com/adding-a-new-domain-to-your-hosting-account-via-cpanel/)
