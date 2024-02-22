@@ -1,4 +1,4 @@
-### Hi there, you can just call me JR 👋
+### Hi there, I'm JR 👋
 
 I'm a full-stack developer who enjoys exploring the different nooks and crannies of programming. 
 
@@ -18,6 +18,8 @@ I'm a full-stack developer who enjoys exploring the different nooks and crannies
 - [How Propeller Ads Push Notifications Got Me Blacklisted](https://elmerdotdev.com/how-propeller-ads-push-notifications-got-me-blacklisted/)
 - [Direction Aware Tiles Pure CSS – How It Works](https://elmerdotdev.com/direction-aware-tiles-pure-css-how-it-works/)
 BLOG-POST-LIST:END -->
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmerdotdev&layout=compact)
 
